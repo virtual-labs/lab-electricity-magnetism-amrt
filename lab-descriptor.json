@@ -15,28 +15,28 @@
     "name": "Tangent Galvanometer",
     "short-name": "tangent-galvanometer",
     "repo": "https://github.com/virtual-labs/exp-tangent-galvanometer-au",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Magnetic Field Along The Axis of A Circular Coil Carrying Current",
     "short-name": "circular-coil-carrying-current",
     "repo": "https://github.com/virtual-labs/exp-circular-coil-carrying-current-au",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Deflection Magnetometer",
     "short-name": "deflection-magnetometer",
     "repo": "https://github.com/virtual-labs/exp-deflection-magnetometer-au",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Van De Graaff Generator",
     "short-name": "van-de-graaff-generator",
     "repo": "https://github.com/virtual-labs/exp-van-de-graaff-generator-au",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -57,14 +57,14 @@
     "name": "Anderson's Bridge",
     "short-name": "andersons-bridge",
     "repo": "https://github.com/virtual-labs/exp-andersons-bridge-au",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Quincke's Method",
     "short-name": "quinckes-method",
     "repo": "https://github.com/virtual-labs/exp-quinckes-method-au",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
